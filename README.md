@@ -5,7 +5,3 @@ In order to read the whole news, we can tap on the news and the whole article is
 I have used Recycler view to show the news in a listed manner. 
 I have also used Volley and News API to fetch and display the news.
 
-
-This app is the
-good
-
